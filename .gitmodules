@@ -1,0 +1,3 @@
+[submodule "lib-externes/Delphi-FMXExtend-Library"]
+	path = lib-externes/Delphi-FMXExtend-Library
+	url = https://github.com/DeveloppeurPascal/Delphi-FMXExtend-Library.git
