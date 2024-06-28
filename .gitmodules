@@ -7,3 +7,6 @@
 [submodule "lib-externes/AboutDialog-Delphi-Component"]
 	path = lib-externes/AboutDialog-Delphi-Component
 	url = https://github.com/DeveloppeurPascal/AboutDialog-Delphi-Component.git
+[submodule "lib-externes/DOSCommand"]
+	path = lib-externes/DOSCommand
+	url = https://github.com/TurboPack/DOSCommand.git
