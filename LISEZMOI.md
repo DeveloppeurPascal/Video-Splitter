@@ -12,11 +12,11 @@ Ce logiciel est disponible dans une version de production directement installabl
 
 Vous pouvez le télécharger et le rediffuser gratuitement à condition de ne pas en modifier le contenu (installeur, programme, fichiers annexes, ...).
 
-[Télécharger le programme ou son installeur](https://olfsoftware.lemonsqueezy.com/buy/93892f55-716c-4be3-8e1b-55adc11989db) (WIP)
+[Télécharger le programme ou son installeur](https://olfsoftware.lemonsqueezy.com/buy/93892f55-716c-4be3-8e1b-55adc11989db)
 
 Si vous utilisez régulièrement ce logiciel et en êtes satisfait vous êtes invité à en acheter une licence d'utilisateur final. L'achat d'une licence vous donnera accès aux mises à jour du logiciel en plus d'activer d'évenuelles fonctionnalités optionnelles.
 
-[Acheter une licence](https://olfsoftware.lemonsqueezy.com/buy/7e30c358-7759-4801-95fa-6bfd760c7c90) (WIP)
+[Acheter une licence](https://olfsoftware.lemonsqueezy.com/buy/7e30c358-7759-4801-95fa-6bfd760c7c90)
 
 Vous pouvez aussi [consulter le site du logiciel](https://videosplitter.olfsoftware.fr/) pour en savoir plus sur son fonctionnement, accéder à des vidéos et articles, connaître les différentes versions disponibles et leurs fonctionnalités, contacter le support utilisateurs...
 
