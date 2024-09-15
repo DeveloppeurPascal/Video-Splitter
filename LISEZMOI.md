@@ -1,10 +1,16 @@
 # Video Splitter
 
-[This page in english.](README.md)
+[This page in English.](README.md)
 
 Video Splitter permet à ses utilisateurs de définir des parties d'une vidéo et de les exporter en tant que fichiers vidéo indépendants (comme des courts métrages (shorts) ou des clips). Le programme est une interface graphique sur l'interface de ligne de commande de FFmpeg.
 
 Ce dépôt de code contient un projet développé en langage Pascal Objet sous Delphi. Vous ne savez pas ce qu'est Dephi ni où le télécharger ? Vous en saurez plus [sur ce site web](https://delphi-resources.developpeur-pascal.fr/).
+
+## Présentations et conférences
+
+### Twitch
+
+Suivez mes streams de développement de logiciels, jeux vidéo, applications mobiles et sites web sur [ma chaîne Twitch](https://www.twitch.tv/patrickpremartin) ou en rediffusion sur [Serial Streameur](https://serialstreameur.fr) la plupart du temps en français.
 
 ## Utiliser ce logiciel
 
