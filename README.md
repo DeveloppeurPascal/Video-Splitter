@@ -22,7 +22,7 @@ You can download and redistribute it free of charge, provided you do not modify 
 
 If you use this software regularly and are satisfied with it, you are invited to purchase an end-user license. Purchasing a license will give you access to software updates, as well as enabling optional features.
 
-[Buy a license](https://olfsoftware.lemonsqueezy.com/buy/7e30c358-7759-4801-95fa-6bfd760c7c90)
+[Buy a license](https://store.olfsoftware.fr/en/streamers-and-creators-c-5/video-splitter-p-18)
 
 You can also [visit the software website](https://videosplitter.olfsoftware.fr/) to find out more about how it works, access videos and articles, find out about the different versions available and their features, contact user support...
 
@@ -36,6 +36,16 @@ This project uses dependencies in the form of sub-modules. They will be absent f
 * [DeveloppeurPascal/Delphi-FMXExtend-Library](https://github.com/DeveloppeurPascal/Delphi-FMXExtend-Library) must be installed in the ./lib-externes/Delphi-FMXExtend-Library subfolder.
 * [DeveloppeurPascal/librairies](https://github.com/DeveloppeurPascal/librairies) must be installed in the ./lib-externes/librairies subfolder.
 * [TurboPack/DOSCommand](https://github.com/TurboPack/DOSCommand) must be installed in the ./lib-externes/DOSCommand subfolder.
+
+## Compatibility
+
+As an [Embarcadero MVP](https://www.embarcadero.com/resources/partners/mvp-directory), I benefit from the latest versions of [Delphi](https://www.embarcadero.com/products/delphi) and [C++ Builder](https://www.embarcadero.com/products/cbuilder) in [RAD Studio](https://www.embarcadero.com/products/rad-studio) as soon as they are released. I therefore work with these versions.
+
+Normally, my libraries and components should also run on at least the current version of [Delphi Community Edition](https://www.embarcadero.com/products/delphi/starter).
+
+There's no guarantee of compatibility with earlier versions, even though I try to keep my code clean and avoid using too many of the new ways of writing in it (type inference, inline var and multiline strings).
+
+If you detect any anomalies on earlier versions, please don't hesitate to [report them](https://github.com/DeveloppeurPascal/Video-Splitter/issues) so that I can test and try to correct or provide a workaround.
 
 ## License to use this code repository and its contents
 
